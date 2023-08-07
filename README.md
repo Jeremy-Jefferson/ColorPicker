@@ -1,3 +1,2 @@
-# 🎨 Color Picker
-
-Follow the instructions in the workshop to finish the assignment!
+# ColorPicker
+Unit 3: (Block25) Color Picker Workshop
